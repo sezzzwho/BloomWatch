@@ -1,0 +1,9 @@
+Bloom Status = IF(
+    OR
+    (
+        OR(
+        FIND("75%",CCMGA[Observation],1,0)>0
+        ,FIND("Open flowers",CCMGA[Observation],1,0)>0)  
+        ,FIND("Flower buds",CCMGA[Observation],1,0)>0
+    )
+    ,"In Bloom","Not In Bloom")
