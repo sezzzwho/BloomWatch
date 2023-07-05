@@ -13,7 +13,7 @@
 - Third item
 `code`
 ---
-# [URL](https://bit.ly/3fNTslu)
+# [URL](https://www.example.com)
 ---
 ![alt text for image](image.jpg)
 ---
