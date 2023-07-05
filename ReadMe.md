@@ -1,4 +1,4 @@
-# **Markdown Basics**
+
 ---
 # This is my pro bono data analysis for the Allen Heritage Village Bloom Watch project
 ## H2
