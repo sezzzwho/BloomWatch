@@ -4,7 +4,6 @@
 ## H2
 ### H3
 **bold text**
-*italicized text*
 > blockquote
 1. item
 2. Second item
